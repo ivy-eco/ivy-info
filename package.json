@@ -1,0 +1,19 @@
+{
+  "name": "@ivy-eco/info",
+  "version": "0.1.0",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "dependencies": {
+    "@ivy-eco/sdk": "^0.1.0",
+    "tsx": "^4.22.4"
+  },
+  "peerDependencies": {
+    "@nestjs/common": "^11.0.1"
+  },
+  "devDependencies": {
+    "@nestjs/schematics": "^11.0.0",
+    "@types/node": "^24.0.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.7.3"
+  }
+}
