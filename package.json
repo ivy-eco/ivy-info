@@ -1,6 +1,6 @@
 {
   "name": "@ivy-eco/info",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "description": "Help scripts for Ivy",
@@ -27,7 +27,7 @@
     "./*": "./dist/*.js"
   },
   "dependencies": {
-    "@ivy-eco/sdk": "^0.1.0",
+    "@ivy-eco/sdk": "^0.2.0",
     "tsx": "^4.22.4"
   },
   "peerDependencies": {
